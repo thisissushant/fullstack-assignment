@@ -83,10 +83,7 @@ const CardList = ({ searchTerm }) => {
                     alignItems: "center",
                     color: "#4C5FD5",
                   }}
-                >
-                  <Typography variant="button">Learn More</Typography>
-                  <ArrowForwardIcon sx={{ ml: 1 }} />
-                </Box>
+                ></Box>
               </CardActionArea>
             </Card>
           </Grid>
